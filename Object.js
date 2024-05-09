@@ -23,3 +23,4 @@ let Karyawan1 = {
 };
 
 Karyawan1.responsibility(6);
+// Pakai object literal kurang efisien karena harus berulang kali melakukan template yang sama
